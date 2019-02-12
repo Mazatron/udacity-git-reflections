@@ -24,3 +24,8 @@ change?
   that is about to be commited. If there are more changes the files can be
   removed from the staging area without being deleted before being added to the
   repository in a later commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+  For different versions of the same programme or when trialling new features
+  when a working version of the previous code is still required.
