@@ -25,7 +25,13 @@ change?
   removed from the staging area without being deleted before being added to the
   repository in a later commit.
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
 
   For different versions of the same programme or when trialling new features
   when a working version of the previous code is still required.
+
+How do the diagrams help you visualize the branch structure?
+
+  They make the lineage of each commit clear. It is also obvious which commit
+  has connections to which other commits.
