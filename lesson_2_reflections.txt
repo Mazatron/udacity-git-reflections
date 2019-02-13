@@ -35,3 +35,10 @@ How do the diagrams help you visualize the branch structure?
 
   They make the lineage of each commit clear. It is also obvious which commit
   has connections to which other commits.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+  After a merge there is only one branch containing the code and all changes
+  from the two merged branches. It is represented that way because it is a
+  good visualisation.
