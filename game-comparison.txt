@@ -1,0 +1,56 @@
+My reflections on the version comparison of the game:
+
+- The key codes were adapted
+- As were the if commands for the key codes
+- there seems to be a spelling error in the if command replacement
+  for the up-key (should be space, is spacr)
+- the no shooting right away hack was replaced by a no moving right away hack
+- It is kind of hard to tell what individual lines do without the context that
+  they are in
+- You have to guess what the correct adaptation should be (eg. with spacr
+  and space)
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+- It pointed out the new code and also the old code that was removed for that
+  new code.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    So you can check if an idea for a solution to problem has already been
+    tested in the past.
+    Also when a new version does unexpected things, it is possible to quickly
+    return to an old version that worked.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro: Manual saving potentially takes up less memory as you select when to
+    save a version.
+    Con: You can forget to save an important version and implement to many
+    changes at once
+    Pro: You can choose logical points at which to commit
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git is designed for software development where it is common to have multiple
+    files that interact to create one programme. Google Docs is designed to for
+    files that are generally used independently of one another.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because you know the last working version is not lost.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For my machine learning course and an upcoming computer science degree.
